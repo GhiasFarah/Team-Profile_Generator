@@ -1,14 +1,13 @@
 {
-  "name": "team-profile_generator",
+  "name": "Team-Profile_Generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest",
-    "start": "node script"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,7 @@
   },
   "homepage": "https://github.com/GhiasFarah/Team-Profile_Generator#readme",
   "dependencies": {
-    "inquirer": "^9.0.2",
+    "inquirer": "^6.3.1",
     "jest": "^28.1.3"
   }
 }
